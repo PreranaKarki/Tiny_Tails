@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tiny_tails/static/css/main.2e389831.css",
+    "main.js": "/tiny_tails/static/js/main.5e831fac.js",
+    "static/media/cat-hy.mp4": "/tiny_tails/static/media/cat-hy.a336df4cfd86d0d49a84.mp4",
+    "static/media/herooDog.jpg": "/tiny_tails/static/media/herooDog.4dda5342e15e96416b2b.jpg",
+    "static/media/hero-2.jpg": "/tiny_tails/static/media/hero-2.b3da49bed0f869236788.jpg",
+    "static/media/heroHamster.jpg": "/tiny_tails/static/media/heroHamster.f45d6485fc3506e17fb5.jpg",
+    "static/media/cathero.jpg": "/tiny_tails/static/media/cathero.13db9e12bc3045558fe8.jpg",
+    "static/media/hero11.jpg": "/tiny_tails/static/media/hero11.c890303f94262fe88d3b.jpg",
+    "static/media/Finallogo.png": "/tiny_tails/static/media/Finallogo.eef0a8cd0debdb7a8b67.png",
+    "static/media/hero1.jpg": "/tiny_tails/static/media/hero1.dbda3343b0dd594508b0.jpg",
+    "static/media/hamster.png": "/tiny_tails/static/media/hamster.e16b492a9f3ed25dff42.png",
+    "static/media/cat.png": "/tiny_tails/static/media/cat.8a1b0c056740f9c8b81c.png",
+    "static/media/CircleF.png": "/tiny_tails/static/media/CircleF.34384d06c5d078131cef.png",
+    "static/media/dog.png": "/tiny_tails/static/media/dog.d7a4d346d0bcee8602fb.png",
+    "index.html": "/tiny_tails/index.html",
+    "main.2e389831.css.map": "/tiny_tails/static/css/main.2e389831.css.map",
+    "main.5e831fac.js.map": "/tiny_tails/static/js/main.5e831fac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e389831.css",
+    "static/js/main.5e831fac.js"
+  ]
+}
