@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tiny_Tails/static/css/main.2e389831.css",
+    "main.js": "/Tiny_Tails/static/js/main.7c3dbd61.js",
+    "static/media/cat-hy.mp4": "/Tiny_Tails/static/media/cat-hy.a336df4cfd86d0d49a84.mp4",
+    "static/media/herooDog.jpg": "/Tiny_Tails/static/media/herooDog.4dda5342e15e96416b2b.jpg",
+    "static/media/hero-2.jpg": "/Tiny_Tails/static/media/hero-2.b3da49bed0f869236788.jpg",
+    "static/media/heroHamster.jpg": "/Tiny_Tails/static/media/heroHamster.f45d6485fc3506e17fb5.jpg",
+    "static/media/cathero.jpg": "/Tiny_Tails/static/media/cathero.13db9e12bc3045558fe8.jpg",
+    "static/media/hero11.jpg": "/Tiny_Tails/static/media/hero11.c890303f94262fe88d3b.jpg",
+    "static/media/Finallogo.png": "/Tiny_Tails/static/media/Finallogo.eef0a8cd0debdb7a8b67.png",
+    "static/media/hero1.jpg": "/Tiny_Tails/static/media/hero1.dbda3343b0dd594508b0.jpg",
+    "static/media/hamster.png": "/Tiny_Tails/static/media/hamster.e16b492a9f3ed25dff42.png",
+    "static/media/cat.png": "/Tiny_Tails/static/media/cat.8a1b0c056740f9c8b81c.png",
+    "static/media/CircleF.png": "/Tiny_Tails/static/media/CircleF.34384d06c5d078131cef.png",
+    "static/media/dog.png": "/Tiny_Tails/static/media/dog.d7a4d346d0bcee8602fb.png",
+    "index.html": "/Tiny_Tails/index.html",
+    "main.2e389831.css.map": "/Tiny_Tails/static/css/main.2e389831.css.map",
+    "main.7c3dbd61.js.map": "/Tiny_Tails/static/js/main.7c3dbd61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e389831.css",
+    "static/js/main.7c3dbd61.js"
+  ]
+}
