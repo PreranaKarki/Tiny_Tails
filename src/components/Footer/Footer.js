@@ -128,8 +128,8 @@ const Footer = () => {
                     <NavLink className="footer-links" to="/contact">
                       Contact Us
                     </NavLink>
-                    <a href="tel: 9804373598" className="footer-links">
-                      +977 9804373598
+                    <a href="tel: 9999999999" className="footer-links">
+                      +977 9999999999
                     </a>
                   </div>
                 </div>
